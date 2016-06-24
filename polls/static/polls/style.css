@@ -1,0 +1,16 @@
+h1 {
+	text-align: center;
+}
+
+
+li a {
+	color: green;
+	text-align: center;
+	font-size: 36;
+}
+
+body{
+	
+	background: white url("images/bernie.jpg") no-repeat right top;
+
+}
