@@ -1,0 +1,8 @@
+# Company account
+Host    git@aws1-git1.tevora.com:jorozco/polls_jorozco.git
+        HostName Gitlab.com
+	StrictHostKeyChecking no
+        PreferredAuthentications publickey
+        RSAAuthentication yes1111
+        IdentityFile C:/users/jorozco/.ssh/id_rsa
+	User jorozco@tevora.com
